@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TO02_PIRATE STUDIO</string>
+    <string name="tvPMDM">Programación multimedia y dispositivos móviles</string>
+    <string name="imgLogoInicio">Logo Pirate Studio</string>
+    <string name="btIniciar">Iniciar</string>
+    <string name="tvIniciarSesion">Iniciar sesión</string>
+    <string name="etUsuario">admin</string>
+    <string name="btIniciarSesion">INICIAR SESIÓN</string>
+    <string name="tvRegistrarse"><u>Registrarse</u></string>
+    <string name="etPass">Contraseña</string>
+    <string name="tvRegistroUsuario">Registro de usuario</string>
+    <string name="etNombreUsuario">Nombre de usuario</string>
+    <string name="etCorreoElectronico">Correo electrónico</string>
+    <string name="etTelefono">Teléfono</string>
+    <string name="etPassConfirmar">Confirme contraseña</string>
+    <string name="btnRegistrar">Registrar</string>
+    <string name="mHistorial">Historial</string>
+    <string name="mAyuda">Ayuda</string>
+    <string name="mAcercade">Acerca de</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="btVolver">VOLVER</string>
+    <string name="tvAutor">Jesús Alcaraz Gómez</string>
+    <string name="tvModulo">Programación Multimediay Dispositivos Móviles</string>
+    <string name="tvCurso">Curso 2022-2023</string>
+    <string name="usuario">Usuario</string>
+
+
+</resources>
